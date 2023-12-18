@@ -10,7 +10,7 @@ This project is a basic e-commerce product listing page featuring dummy products
   - [Sorting Products](#sorting-products)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Instructions
 
